@@ -1,0 +1,15 @@
+'
+
+  train: ../data/train/images  # Path to training images
+
+  val: ../data/val/images      # Path to validation images
+
+
+  nc: 1                       # Number of classes (in your case, 1 for license plates
+  or other)
+
+
+  names: [''license_plate'']     # Name of your class (customize as needed)
+
+
+  '
