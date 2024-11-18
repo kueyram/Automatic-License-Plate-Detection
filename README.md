@@ -66,11 +66,11 @@ After detecting the license plates, EasyOCR is used to extract the text from the
 
 The system is evaluated based on:
 
-    Precision: The proportion of correct detections out of all detected plates.
-    Recall: The proportion of actual plates correctly detected.
-    F1-Score: A combined metric of precision and recall.
-    Mean Average Precision (mAP): A measure of the accuracy of the object detection model.
-    Processing Speed: The time taken to process each image, ensuring the system can work in real-time applications.
+- Precision: The proportion of correct detections out of all detected plates.
+- Recall: The proportion of actual plates correctly detected.
+- F1-Score: A combined metric of precision and recall.
+- Mean Average Precision (mAP): A measure of the accuracy of the object detection model.
+- Processing Speed: The time taken to process each image, ensuring the system can work in real-time applications.
 
 # License
 
